@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "280394356457",
+    "project_id": "pills-reminder-e7e02",
+    "storage_bucket": "pills-reminder-e7e02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280394356457:android:cedc94c66efbf066548278",
+        "android_client_info": {
+          "package_name": "com.example.pills_reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280394356457-6rgu0ijs8s3q561n4hbl1v1c8sc1tc0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pills_reminder",
+            "certificate_hash": "33291c31555cbdcb004c720dd96737155082dba9"
+          }
+        },
+        {
+          "client_id": "280394356457-bvivstomd7kgo0sjbd7tnv7a52nfatgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pills_reminder",
+            "certificate_hash": "22e1f2f8b9b27357d2c2754d502c3319f119d718"
+          }
+        },
+        {
+          "client_id": "280394356457-f1qt0763p0h2tt4p4jbfnnou97qgqs2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYF0KkIAcc8sHaMFbJtLOVwaXZvtyP99o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280394356457-2sbov239b965b7e9rptlhi014ovh6ir1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "280394356457-2vq6d731dv7vp0f7qvu87eofo7jpju3l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pillsReminder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
